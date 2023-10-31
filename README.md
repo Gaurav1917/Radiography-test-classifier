@@ -47,10 +47,10 @@ For deployment we used a gradio interface: https://www.gradio.app/docs/interface
 
 ## Sample output/testing:
 
-![Screenshot (24)](https://github.com/Gaurav1917/Radiography-test-classifier/assets/146158309/00b48e58-ee53-4e15-a3c9-4c8ad1f23bf6)
+![Screenshot (24)](https://github.com/Gaurav1917/Radiography-test-classifier/assets/146158309/dd8de7c8-c3ab-4a27-9e41-ff153911279c)
 
 ### Link for testing:
-#### 
+#### https://huggingface.co/spaces/Gaur1917/Chest-X-rays
 
 
 
