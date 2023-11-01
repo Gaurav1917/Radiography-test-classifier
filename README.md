@@ -7,8 +7,8 @@
 
 ## Explanation about the project:
 
-        The dataset has two parts(Train,Test).The training dataset has four classes (COVID,lung_opacity,Normal,Viral_Pneumonia), 
-        the total images in training dataset is 16798. 
+        The dataset has two parts(Train,Test).The training dataset has ftwo classes (Lungs Disease,Normal), 
+        the total images in training dataset is 10,000+. 
         *Training Data(images): 
         COVID - 2901, lung_opacity - 4813, Normal - 8003,Viral_Pneumonia - 1081   
         *Test Data(images): 
