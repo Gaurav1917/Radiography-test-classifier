@@ -7,12 +7,12 @@
 
 ## Explanation about the project:
 
-        The dataset has two parts(Train,Test).The training dataset has ftwo classes (Lungs Disease,Normal), 
-        the total images in training dataset is 10,000+. 
+        The dataset has two parts(Train,Test).The training dataset has two classes (Lungs Disease,Normal), 
+        the total images in training dataset is 16204. 
         *Training Data(images): 
-        COVID - 2901, lung_opacity - 4813, Normal - 8003,Viral_Pneumonia - 1081   
+        Normal - 8203, Lung Disease - 7063  
         *Test Data(images): 
-        COVID - 715,lung_opacity - 1199, Normal - 2189,Viral_Pneumonia - 264
+        Normal - 1795, Lung Disease - 1695
 
 The model is made by using CNN(convolutional neural network). As we don’t have a large dataset so ,either you can generate image from ImageDataGenerator or use transfer learning ,here we used technique Transfer learning(VGG19 model) . The training accuracy we got from the model is 99.552% and test accuracy is 99.537%.
 
