@@ -1,7 +1,6 @@
 # Radiography-test-classifier
 ## Dataset:
   ### Kaggle: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
-  ### Drive link: 
 
 ## VGG19 Model: 
 ### https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg19/VGG19
